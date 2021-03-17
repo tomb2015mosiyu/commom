@@ -1,14 +1,14 @@
 //
-//  CPDAppDelegate.h
-//  PROJECT
+//  TOMBAppDelegate.h
+//  /Users/zhangjin/Desktop/TombCommon
 //
-//  Created by PROJECT_OWNER on TODAYS_DATE.
-//  Copyright (c) TODAYS_YEAR PROJECT_OWNER. All rights reserved.
+//  Created by Tomb on 03/17/2021.
+//  Copyright (c) 2021 Tomb. All rights reserved.
 //
 
 @import UIKit;
 
-@interface CPDAppDelegate : UIResponder <UIApplicationDelegate>
+@interface TOMBAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
 

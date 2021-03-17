@@ -1,18 +1,18 @@
 //
-//  CPDViewController.m
-//  PROJECT
+//  TOMBViewController.m
+//  /Users/zhangjin/Desktop/TombCommon
 //
-//  Created by PROJECT_OWNER on TODAYS_DATE.
-//  Copyright (c) TODAYS_YEAR PROJECT_OWNER. All rights reserved.
+//  Created by Tomb on 03/17/2021.
+//  Copyright (c) 2021 Tomb. All rights reserved.
 //
 
-#import "CPDViewController.h"
+#import "TOMBViewController.h"
 
-@interface CPDViewController ()
+@interface TOMBViewController ()
 
 @end
 
-@implementation CPDViewController
+@implementation TOMBViewController
 
 - (void)viewDidLoad
 {

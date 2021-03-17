@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6003F589195388D20070C39A"
-               BuildableName = "PROJECT_Example.app"
-               BlueprintName = "PROJECT_Example"
-               ReferencedContainer = "container:PROJECT.xcodeproj">
+               BuildableName = "/Users/zhangjin/Desktop/TombCommon_Example.app"
+               BlueprintName = "/Users/zhangjin/Desktop/TombCommon_Example"
+               ReferencedContainer = "container:/Users/zhangjin/Desktop/TombCommon.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6003F5AD195388D20070C39A"
-               BuildableName = "PROJECT_Tests.xctest"
-               BlueprintName = "PROJECT_Tests"
-               ReferencedContainer = "container:PROJECT.xcodeproj">
+               BuildableName = "/Users/zhangjin/Desktop/TombCommon_Tests.xctest"
+               BlueprintName = "/Users/zhangjin/Desktop/TombCommon_Tests"
+               ReferencedContainer = "container:/Users/zhangjin/Desktop/TombCommon.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "PROJECT_Example.app"
-            BlueprintName = "PROJECT_Example"
-            ReferencedContainer = "container:PROJECT.xcodeproj">
+            BuildableName = "/Users/zhangjin/Desktop/TombCommon_Example.app"
+            BlueprintName = "/Users/zhangjin/Desktop/TombCommon_Example"
+            ReferencedContainer = "container:/Users/zhangjin/Desktop/TombCommon.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -66,9 +66,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "PROJECT_Example.app"
-            BlueprintName = "PROJECT_Example"
-            ReferencedContainer = "container:PROJECT.xcodeproj">
+            BuildableName = "/Users/zhangjin/Desktop/TombCommon_Example.app"
+            BlueprintName = "/Users/zhangjin/Desktop/TombCommon_Example"
+            ReferencedContainer = "container:/Users/zhangjin/Desktop/TombCommon.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -85,9 +85,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "PROJECT_Example.app"
-            BlueprintName = "PROJECT_Example"
-            ReferencedContainer = "container:PROJECT.xcodeproj">
+            BuildableName = "/Users/zhangjin/Desktop/TombCommon_Example.app"
+            BlueprintName = "/Users/zhangjin/Desktop/TombCommon_Example"
+            ReferencedContainer = "container:/Users/zhangjin/Desktop/TombCommon.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

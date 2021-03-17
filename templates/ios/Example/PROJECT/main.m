@@ -1,17 +1,17 @@
 //
 //  main.m
-//  PROJECT
+//  /Users/zhangjin/Desktop/TombCommon
 //
-//  Created by PROJECT_OWNER on TODAYS_DATE.
-//  Copyright (c) TODAYS_YEAR PROJECT_OWNER. All rights reserved.
+//  Created by Tomb on 03/17/2021.
+//  Copyright (c) 2021 Tomb. All rights reserved.
 //
 
 @import UIKit;
-#import "CPDAppDelegate.h"
+#import "TOMBAppDelegate.h"
 
 int main(int argc, char * argv[])
 {
     @autoreleasepool {
-        return UIApplicationMain(argc, argv, nil, NSStringFromClass([CPDAppDelegate class]));
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([TOMBAppDelegate class]));
     }
 }
